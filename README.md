@@ -1,7 +1,7 @@
 # dw_matrix_road_sign
 
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
-in his Machine Learning- MATRIX challenge, posted in 30.03-03.04.2020.
+in his MATRIX (part three) project, posted in 30.03-03.04.2020.
 
 Description of particular days:
 
