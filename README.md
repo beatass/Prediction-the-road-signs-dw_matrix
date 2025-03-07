@@ -1,7 +1,7 @@
 # Prediction the road signs 
 
-Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
-in his MATRIX (part three) project, posted in 30.03-03.04.2020 in online form. 
+There are specific topics from **5 days challenge** initialized by Vladimir Alekseichenko
+in his **MATRIX** (part three) project, posted in 30.03-03.04.2020 in online form. 
 
 ## Description of particular days:
 
